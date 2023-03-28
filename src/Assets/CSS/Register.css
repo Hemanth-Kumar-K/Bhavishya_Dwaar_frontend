@@ -1,0 +1,13 @@
+.regcard{
+    width: 28vw; 
+    max-width: 100%; 
+    border-color: #ffffff;
+}
+.regbtn{
+    float: right;
+}
+.register_page_css{
+    background-color: #ffffff;
+    margin: 5vw;
+    border: black solid;
+}

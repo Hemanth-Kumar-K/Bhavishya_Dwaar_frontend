@@ -1,0 +1,32 @@
+#StudEditProf_body{
+    background-color: #006699;
+    height: 100%;
+    width: 100%;
+}
+.editprofile{
+    /* margin-top: 2vw;
+    margin-bottom: 2vw;
+    margin-left: 5vw;
+    margin-right: 30vw; */
+    margin: 2vw;
+    margin-left: 5vw;
+}
+.align-edit-profile{
+    padding-left: 5vw;
+    padding-right : 5vw;
+    background-color: white;
+    border-radius: 2vw;
+}
+#re-enter{
+    color: red;
+}
+#editHeading{
+    color: white;
+}
+#editSave{
+    float: right;
+}
+#mechtree{
+    height: 90vh;
+    width: 30vw;
+}

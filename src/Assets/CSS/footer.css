@@ -1,0 +1,16 @@
+.vl
+  {
+  border-left: 3px solid whitesmoke;
+  height: 130px;
+  @media screen {
+    margin-right: auto;
+  margin-left: auto;
+  }
+  }
+  .fo
+  {
+    padding:10px;
+  }
+  #copyright{
+    background-color: rgba(0, 0, 0, 0.2);
+  }

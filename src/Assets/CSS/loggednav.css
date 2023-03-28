@@ -1,0 +1,9 @@
+#bell{
+    color: white;
+}
+@media only screen and (max-width : 900px){
+#hemanthnav{
+    background-color: black !important;
+    opacity: 0.75;
+}
+}

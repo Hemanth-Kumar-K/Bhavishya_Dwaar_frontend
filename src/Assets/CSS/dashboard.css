@@ -1,0 +1,93 @@
+.compimg{
+    height: 30px;
+    width: 30px;
+}
+#cardBody{
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#stud_appl{
+    margin-right: 6vw;
+    margin-left: 6vw;
+}
+.jobcard{
+    margin: 5px !important;
+}
+#dashboard_body{
+    background-color: #006699;
+}
+#navbar{
+    background-color: transparent !important;
+}
+.logbutton{
+    text-decoration: none;
+    color: #ffffff;
+    padding-left : 7px;
+    padding-right: 7px;
+    font-weight: 400;
+}
+#logbuttons2{
+    margin-left: auto;
+    margin-right: 15px;
+}
+#profileimage{
+    width: 18vw;
+    height: 18vw;
+    padding: 20px;
+    float: left;
+}
+#profile_body{
+    margin-top: 6vh;
+    margin-left: 20vw;
+}
+#editprof_1{
+    width: 30vh;
+    height: 6vh;
+    margin: 10px;
+    float: right;
+}
+#editprof_2{
+    width: 30vh;
+    height: 6vh;
+    margin: 10px;
+    float: right;
+    margin-right: 10px;
+}
+
+#sty_1
+{
+    width: 85vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+#sty_2
+{
+    color: white;
+    margin-left: 10px;
+}
+#sty_31
+{
+    width : 20rem;
+}
+#sty_4
+{
+    width : 20rem;
+}
+#sty_5
+{
+    width : 20rem;
+}
+#sty_6
+{
+    width: 20rem;
+}
+#sty_7
+{
+    width: 35%; 
+    height:6vh;
+}
+#cen
+{
+    text-align: center;
+}

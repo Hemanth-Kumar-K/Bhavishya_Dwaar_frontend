@@ -1,0 +1,68 @@
+#studjobs{
+    box-sizing: border-box;
+  }
+  
+  
+  #myUL {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #myUL li a {
+    border: 1px solid #ddd;
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: block
+  }
+  
+  #myUL li a:hover:not(.header) {
+    background-color: #eee;
+  }
+  .x
+  {
+    visibility: hidden;
+  }
+  #clr
+  {
+    float: right;
+  }
+.jobcards-lg{
+    width: 60vw;
+}
+.jobcards-sm{
+  width: 99%;
+}
+#card_holder{
+    margin: 3vw;
+}
+.compimg{
+    height: 28px;
+    width: 30px;
+}
+.card-text{
+    margin-left: 5px;
+    font-weight: 600;
+    font-size: large;
+}
+.card-title{
+    font-size: larger;
+}
+.view_button{
+    float: right;
+    margin-right: 5px;
+}
+.offcanvas{
+    width: 100% !important; 
+}
+.btn-outline-primary{
+    float: right;
+}
+
+.filterbox{
+  position :relative;
+}

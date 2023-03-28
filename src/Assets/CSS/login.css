@@ -1,0 +1,82 @@
+#background-radial-gradient {
+    background-image: url("https://www.wallpaperflare.com/static/112/162/361/tree-fog-landscape-mist-wallpaper.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+#bg-glass {
+  background-color: hsla(0, 0%, 100%, 0.9) !important;
+  backdrop-filter: saturate(200%) blur(25px);
+}
+#log_butt
+{
+border-radius: 12px;
+background-color: khaki;
+border-width: 0px;
+height: 40px;
+width: 80px;
+text-align: center;
+}
+#sig_butt
+{
+border-radius: 12px;
+background-color: lightskyblue;
+border-width: 0px;
+height: 40px;
+width: 80px;
+text-align: center;
+color: whitesmoke !important;
+}
+#nolink{
+text-decoration: none;
+color: whitesmoke !important;
+
+}
+#nolink_1{
+  text-decoration: none;
+  color: whitesmoke !important;
+  font-size: 25px;
+  font-weight: 600;
+}
+#nolink_1:hover
+{
+  font-size: 200%;
+}
+#rig
+{
+  margin-left: auto;
+}
+#ok_1
+{
+  color: white;
+}
+#ok_2
+{
+  z-index: 10;
+}
+#ok_3
+{
+  color: hsl(218, 81%, 95%);
+}
+#ok_4
+{
+  color: hsl(218, 81%, 75%);
+}
+#ok_5
+{
+  color: hsl(218, 81%, 85%);
+  font-size: 30px;
+  font-weight: 700;
+}
+#i_1
+{
+  color: white;
+  
+}
+#m_1
+{
+  margin-left: 100px;
+  margin-top: 10px;
+}
+section{
+  position: static !important;
+}

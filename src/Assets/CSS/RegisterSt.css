@@ -1,0 +1,36 @@
+body{
+    background-color: #F7F9F9;
+}
+#header{
+padding: 10px;
+}
+#register-img{
+margin-top: 17vh;
+}
+.content{
+border-radius: 20px;
+padding: 15px;
+margin-left: 25vw;
+margin-right: 15vw;
+margin-bottom: 5vh;
+background-color:#FFFFFF;
+}
+#m_1
+{
+  margin-left: 100px;
+  margin-top: 10px;
+}
+#returnBG{
+    background-color: black;
+    width: 100%;
+}
+#nolink_1{
+    text-decoration: none;
+    color: black !important;
+    font-size: 25px;
+    font-weight: 600;
+  }
+  #nolink_1:hover
+  {
+    font-size: 200%;
+  }

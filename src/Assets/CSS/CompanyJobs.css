@@ -1,0 +1,35 @@
+.comp-jobs-body{
+    height: 100%;
+    width: 100%;
+    background-color: #006699;
+}
+
+#comp-jobs-content{
+    padding : 1.5vw;
+}
+
+#comp-jobs-content-box{
+    background-color: white;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    border-radius: 2vw;
+}
+
+#comp-jobs-heading{
+    color: white;
+    margin-left: 10vw;
+}
+
+input{
+    border: solid black;
+}
+
+#about-job{
+    height: 5rem;
+}
+
+#addJobBtn{
+    float: right;
+}
